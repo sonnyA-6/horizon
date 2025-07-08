@@ -8,3 +8,8 @@ evolve into a grapical user interface (GUI) written in C#, offering an intuitive
 
 Horizon shhowcases clean archictecural practices, real-time API intergration, and robust CI/CD automation. It's designed to demonstrate skills in systems
 programming, UI development, cross-language project structuring, and live data aggregation in the fields of aerospace and meteorology.
+
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.

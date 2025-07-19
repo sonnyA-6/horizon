@@ -1,0 +1,73 @@
+# =====================
+# Rust
+# =====================
+/target/
+**/*.rs.bk
+Cargo.lock
+
+#Rust-specific backup files
+*.rs.bk
+
+
+# =====================
+# C#
+# =====================
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.ilk
+*.pdb
+*.vspscc
+*.vssscc
+*.vshost.*
+
+# Windows Forms designer generated files
+*.Designer.cs
+
+# Auto-generated Files
+*.Generated.cs
+
+#NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# .Net Core
+*.deps.json
+*.runtimeconfig.json
+
+# =====================
+# VS Code
+# =====================
+.vscode/
+*.code-workspace
+
+# =====================
+# JetBrains IDE
+# =====================
+.idea/
+
+# =====================
+# OS-Specific
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# =====================
+# Logs
+# =====================
+*.log
+npm-debug.log*
+
+# =====================
+# Misc
+# =====================
+*.tmp
+*.bak
+*.swp

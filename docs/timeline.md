@@ -1,11 +1,11 @@
 # Project Timeline: Horizon
 
 ## Phase 1: Project & Git Setup (Week 1–2)
-- [ ] Initialize GitHub repo and local folder
-- [ ] Write README and project goals
-- [ ] Establish Git workflow (main/dev)
-- [ ] Create GitHub Project Board
-- [ ] Define coding standards and structure
+- [x] Initialize GitHub repo and local folder
+- [x] Write README and project goals
+- [x] Establish Git workflow (main/dev)
+- [x] Create GitHub Project Board
+- [x] Define coding standards and structure
 
 ## Phase 2: Rust CLI Core (Week 3–6)
 - [ ] CLI argument handling (`--help`, `--iss`, etc.)
